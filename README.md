@@ -15,7 +15,7 @@
 
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/amit-kumar-66430832)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel)](https://amitmca01.github.io/amit-react-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel)](https://amitmca01.github.io/amit-portfolio/)
 
 ---
 
