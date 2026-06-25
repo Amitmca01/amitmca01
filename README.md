@@ -13,9 +13,10 @@
 
 ---
 
-### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/amit-kumar-66430832)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel)](https://amitmca01.github.io/amit-portfolio/)
+### ☕ Support:
+<a href="https://www.buymeacoffee.com/amitmca01" target="_blank">
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=amitmca01&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"/>
+</a>
 
 ---
 
