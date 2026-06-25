@@ -6,9 +6,9 @@
 
 ---
 
-- 🔭 Currently working on **React Portfolio & Food App**
-- 🌱 Currently learning **Advanced React Patterns & Gen AI**
-- 💬 Ask me about **React.js, JavaScript, Redux, Tailwind CSS**
+- 🔭 Building production-grade **React Portfolio & Food Ordering App** — live on GitHub Pages
+- 🌱 Levelling up in **Advanced React Patterns, Agentic AI & Autonomous Workflows**
+- 💬 Ask me about **React.js · JavaScript ES6+ · Redux Toolkit · Tailwind CSS · Component Architecture**
 - 📫 Reach me at **amit.mca01@gmail.com**
 
 ---
