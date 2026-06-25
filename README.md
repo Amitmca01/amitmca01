@@ -36,6 +36,16 @@
 
 ---
 
+### ☕ Support:
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/amitmca01)
+
+---
+
+### 📊 Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitmca01&layout=compact&theme=tokyonight)
+
+---
+
 ### 📊 GitHub Stats:
 ![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitmca01&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitmca01&layout=compact&theme=tokyonight)
